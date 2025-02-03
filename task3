@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time Collaboration Tool</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div class="navbar">
+            <h1>CollabTool</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="login.html">Login</a></li>
+            </ul>
+        </div>
+    </nav>
+    <main>
+        <section class="landing">
+            <h2>Welcome to the Real-Time Collaboration Tool</h2>
+            <p>Work together seamlessly with your team in real time!</p>
+            <button onclick="location.href='register.html'">Get Started</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Real-Time Collaboration Tool. All rights reserved.</p>
+    </footer>
+</body>
+</html>
